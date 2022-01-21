@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Witcher 3 - Gwent Players Tracker"
 permalink: /Witcher3/GwentPlayersTracker
+---
 
 # Witcher 3 - Gwent Players Tracker
 
